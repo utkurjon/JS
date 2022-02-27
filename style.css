@@ -1,0 +1,19 @@
+body {
+    
+    background: url(img/js.png);
+    background-color: yellow;
+    background-position: center;
+             
+}
+
+h2{
+    color: black;
+    text-align: inherit;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+
+
+
